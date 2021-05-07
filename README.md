@@ -2,7 +2,7 @@
 
 ### Demo
 
-<a href="https://youtu.be/1GMH8ZcV8lM" rel="nofollow"> Live Demo </a>
+<a href="https://youtu.be/p-fT3zygxrs" rel="nofollow"> Live Demo </a>
 
 ### Website
-<a href="https://codeat21.com/php-highlight-keywords-in-search-results-with-mysql/" rel="nofollow"> Website </a>
+<a href="https://codeat21.com/upload-and-add-watermark-to-image-using-php/" rel="nofollow"> Website </a>
